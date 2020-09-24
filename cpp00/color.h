@@ -10,4 +10,5 @@
 //	out << static_cast<int>(255.999 * pixel_color.y()) << ' ';
 //	out << static_cast<int>(255.999 * pixel_color.z()) << ' ';
 //}
+
 #endif // !COLOR_H
